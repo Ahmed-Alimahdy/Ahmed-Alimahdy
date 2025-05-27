@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Ahmed Mahdy and trainee flutter</h2>
+<h2 align="left">Hi 👋! <br>My name is Ahmed Mahdy and i'm trainee flutter</h2>
 
 ###
 
